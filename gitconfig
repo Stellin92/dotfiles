@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anthonyteuwen@hotmail.com
+	name = Anthony Teuwen
